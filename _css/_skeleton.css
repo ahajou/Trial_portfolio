@@ -1,0 +1,29 @@
+.pageMain{
+    margin: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-left: 0;
+    padding-right: 0;
+    
+    border-bottom:0
+    
+    background-color : #cccccc;
+    
+}
+
+
+.mainMenu{
+    overflow: hidden;
+    background-color: rgba(0,0,0,0.5);
+    position :fixed;
+    width    :100%;
+    height   : 60px;
+    
+    padding-top: 15px;
+    text-align: center;
+    
+
+    /*float    :left;*/
+    top      : 0;
+    color    :white;
+}
